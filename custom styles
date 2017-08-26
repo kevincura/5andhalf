@@ -1,0 +1,40 @@
+ul.products li.product .woocommerce-LoopProduct-link{
+    position: relative;
+}
+ 
+ul.products li.product .woocommerce-LoopProduct-link .sale-price{
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: right;
+}
+  
+ul.products li.product .woocommerce-LoopProduct-link .sale-price .sale-off{
+    color: #ffffff;
+    background: rgb(201, 100, 117);
+    font-weight: 400;
+    padding: 0 12px;
+    display: block;
+}
+ 
+ul.products li.product .woocommerce-LoopProduct-link .sale-price .discount,
+ul.products li.product .woocommerce-LoopProduct-link .sale-price .price{
+    color: #ffffff;
+    background:  rgb(100, 201, 194);
+    font-weight: 400;
+    padding: 0 12px;
+    display: inline-block;
+    font-weight: 700;
+}
+
+ul.products li.product .woocommerce-LoopProduct-link .onsale{
+    display: none;
+}
+
+ul.products li.product .woocommerce-loop-product__title {
+    display: inline-block;
+}
+ 
+ul.products li.product .sku{
+    color: #333333
+}
