@@ -1,3 +1,6 @@
 26 August 2017
-- added custom styles to style.css but I can do a sass version but its not yet installed on the unit. The sale text is set to display:none just in case it will be need in the future.
-- I've added custom hooks to modify the products output also to add a custom endpoint. You can you the JSON at https://kevin-cura-batman5andhalf.c9users.io/not-in-stock/
+- added custom styles to style.css but I can do a sass version but its not yet installed on the unit. 
+  The sale text is set to display:none just in case it will be need in the future.
+  
+- I've added custom hooks to modify the products output also to add a custom endpoint. 
+  You can you the JSON at https://kevin-cura-batman5andhalf.c9users.io/not-in-stock/
